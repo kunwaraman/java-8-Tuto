@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InheritanceInFunctionalInterface/InheritanceInFunctionalInterface.iml" filepath="$PROJECT_DIR$/InheritanceInFunctionalInterface/InheritanceInFunctionalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java8Features.iml" filepath="$PROJECT_DIR$/.idea/Java8Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression01/LambdaExpression01.iml" filepath="$PROJECT_DIR$/LambdaExpression01/LambdaExpression01.iml" />
+    </modules>
+  </component>
+</project>
