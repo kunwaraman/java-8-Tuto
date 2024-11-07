@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java8Features.iml" filepath="$PROJECT_DIR$/.idea/Java8Features.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpression01/LambdaExpression01.iml" filepath="$PROJECT_DIR$/LambdaExpression01/LambdaExpression01.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticMethodInsideInterface/StaticMethodInsideInterface.iml" filepath="$PROJECT_DIR$/StaticMethodInsideInterface/StaticMethodInsideInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseComparatorUsingLambdaExpression/UseComparatorUsingLambdaExpression.iml" filepath="$PROJECT_DIR$/UseComparatorUsingLambdaExpression/UseComparatorUsingLambdaExpression.iml" />
     </modules>
   </component>
 </project>
