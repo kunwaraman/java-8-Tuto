@@ -18,3 +18,10 @@ Example:
 interface MyFunctionalInterface {
     void apply(String name);
 }
+
+Streams API
+
+The Streams API allows processing sequences of elements (like collections) in a functional style.
+Example:
+List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
+int sum = numbers.stream().mapToInt(Integer::intValue).sum();
